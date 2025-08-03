@@ -71,7 +71,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ```bash
 git clone https://github.com/DnyaneshwariChechare/Workforce-Management-API.git
-cd your-repo
+cd Workforce-Management-API
 ```
 ### Running the Application Locally
 
