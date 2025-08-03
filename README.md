@@ -70,11 +70,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### Cloning the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/DnyaneshwariChechare/Workforce-Management-API.git
 cd your-repo
 ```
-*(Replace `your-username` and `your-repo` with your actual GitHub username and repository name)*
-
 ### Running the Application Locally
 
 You can run the Spring Boot application using Gradle:
@@ -291,4 +289,3 @@ D:\GradleWorkspace\
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-*(You'll need to create a `LICENSE` file in your repository with the MIT license text.)*
